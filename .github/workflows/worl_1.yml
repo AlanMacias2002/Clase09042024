@@ -3,7 +3,7 @@ name: Work 1 Dorx
 on:
   push:
     branches:
-      - rama_1
+      - test_1
 
 jobs:
   build:
